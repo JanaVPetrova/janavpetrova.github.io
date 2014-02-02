@@ -1,0 +1,12 @@
+name: Yana Petrova
+description: Personal blog
+meta_description: "Yana Petrova's blog"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'janavpetrova.github.io'
+author:         'Yana Petrova'
