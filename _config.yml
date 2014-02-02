@@ -8,5 +8,10 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'janavpetrova.github.io'
+url:            'http://janavpetrova.github.io'
 author:         'Yana Petrova'
+
+comments:
+  provider: facebook
+  facebook:
+    app_id: 234661286713699

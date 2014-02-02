@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  Licenses
 date:   2014-02-01 19:45:37
 ---
