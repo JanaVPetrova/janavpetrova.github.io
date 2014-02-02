@@ -8,8 +8,11 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'http://janavpetrova.github.io'
+url:            'janavpetrova.github.io'
 author:         'Yana Petrova'
+
+ga:
+  tracking_id: "UA-47725352-1"
 
 comments:
   provider: facebook
