@@ -33,3 +33,5 @@ date:   2014-05-01 14:25:37
     Requiring files:
     /my-rails-app/app/assets/javascripts/application.js
     /my-rails-app/app/assets/stylesheets/application.css
+
+Реквестирую фидбэк.:)
